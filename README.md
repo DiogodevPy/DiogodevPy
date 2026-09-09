@@ -8,7 +8,7 @@ Software Developer specializing in building robust backends, cross-platform appl
 
 ### 🛠️ Tech Stack & Skills
 - **Primary Language:** Python (Kivy, FastAPI, Streamlit, Scripting, Automation)
-- **Frameworks & Tools:** Kivy / KivyMD (Cross-Platform Mobile & Desktop Apps), REST APIs
+- **Frameworks & Tools:** Kivy / KivyMD (Cross-Platform Mobile & Desktop Apps), REST APIs, Streamlit
 - **Databases:** MySQL, SQLite
 - **AI & Data:** AI Integration, API Development, Data Processing
 - **Secondary Stack:** SwiftUI, Dart / Flutter, JavaScript, PHP
