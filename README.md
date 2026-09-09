@@ -1,15 +1,16 @@
 # Hi, I'm Diogo 👋
 
-### 🐍 Python Developer | Backend, APIs & AI Integration
+### 🐍 Python Developer | Backend, Mobile & AI Integration
 
-Software Developer specializing in building robust backends, REST APIs, and AI-powered automation solutions using **Python**.
+Software Developer specializing in building robust backends, cross-platform applications, and AI-powered automation solutions using **Python**.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Primary Language:** Python (FastAPI, Django, Kivy, Scripting, Automation)
+- **Primary Language:** Python (Kivy, FastAPI, Django, Scripting, Automation)
+- **Frameworks & Tools:** Kivy / KivyMD (Cross-Platform Mobile & Desktop Apps), REST APIs
 - **Databases:** MySQL, SQLite
-- **AI & Data:** AI Integration, API Development, Data Analysis
+- **AI & Data:** AI Integration, API Development, Data Processing
 - **Secondary Stack:** SwiftUI, Dart / Flutter, JavaScript, PHP
 - **Systems & Infra:** Linux, Windows Server, Git
 
