@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Diogo 👋
 
-<!--
-**DiogodevPy/DiogodevPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer | Backend, APIs & AI Integration
 
-Here are some ideas to get you started:
+Software Developer specializing in building robust backends, REST APIs, and AI-powered automation solutions using **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+- **Primary Language:** Python (FastAPI, Django, Scripting, Automation)
+- **Databases:** MySQL, SQLite
+- **AI & Data:** AI Integration, API Development, Data Analysis
+- **Secondary Stack:** SwiftUI, Dart / Flutter, JavaScript, PHP
+- **Systems & Infra:** Linux, Windows Server, Git
+
+---
+
+### 📬 Connect with Me
+- **Email:** diogodevpy@gmail.com
+- **LinkedIn:** [linkedin.com/in/diogodevpy](https://linkedin.com/in/diogodevpy)
+- **Location:** São Paulo, Brazil (Available for Remote Worldwide)
+
+---
