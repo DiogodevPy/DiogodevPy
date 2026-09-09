@@ -7,7 +7,7 @@ Software Developer specializing in building robust backends, REST APIs, and AI-p
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Primary Language:** Python (FastAPI, Django, Scripting, Automation)
+- **Primary Language:** Python (FastAPI, Django, Kivy, Scripting, Automation)
 - **Databases:** MySQL, SQLite
 - **AI & Data:** AI Integration, API Development, Data Analysis
 - **Secondary Stack:** SwiftUI, Dart / Flutter, JavaScript, PHP
